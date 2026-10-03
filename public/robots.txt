@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://astro-blog-starter-template.nelsonyu-tw.workers.dev/sitemap-index.xml
