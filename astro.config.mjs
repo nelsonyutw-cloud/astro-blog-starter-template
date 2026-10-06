@@ -7,7 +7,7 @@ import cloudflare from "@astrojs/cloudflare";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://astro-blog-starter-template.nelsonyu-tw.workers.dev",
+	site: "https://pf.srcwall.com.tw",
 	integrations: [mdx(), sitemap()],
 	adapter: cloudflare({
 		platformProxy: {
